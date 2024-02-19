@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thomas Montet
-- 📚 I am a Computer Engineering Student
-- 🌱 Specialized in Data Science & ElasticSearch
+- 🌱 I'm Specialized in Data Science & ElasticSearch
 
 <!---
 TMONTET/TMONTET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
