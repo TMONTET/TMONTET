@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thomas Montet
-- 🌱 I'm Specialized in Data Science & ElasticSearch
+- Hi, I’m Thomas Montet
+- I'm Specialized in AI / Data
 
 <!---
 TMONTET/TMONTET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
