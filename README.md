@@ -1,4 +1,4 @@
-- Hi, I’m Thomas Montet
+- Hi, I’m Thomas
 - I'm Specialized in AI / Data
 
 <!---
